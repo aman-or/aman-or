@@ -54,7 +54,10 @@ In data analysis - 1 year.
 
 ## Certificates 📜
 <p align="left">
-   
+   <a href="[[[https://stepik.org/cert/2224980](https://stepik.org/cert/2354846)](https://stepik.org/cert/2623464)](https://stepik.org/cert/2354846)"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
+   <a href="https://stepik.org/cert/2310629"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
+   <a href="https://stepik.org/cert/2623464"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
+   <a href="https://stepik.org/cert/2354846"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
 </p>
 
 ## Tools & Skills 🧰
