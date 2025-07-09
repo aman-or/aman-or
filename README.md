@@ -58,6 +58,7 @@ In data analysis - 1 year.
    <a href="https://stepik.org/cert/2310629"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
    <a href="https://stepik.org/cert/2623464"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
    <a href="https://stepik.org/cert/2354846"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
+   <a href="https://education.vk.company/curriculum/certificates/download/56961/d29b306c-df72-456c-baa4-0d352ec382e9/"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 
 ## Tools & Skills 🧰
