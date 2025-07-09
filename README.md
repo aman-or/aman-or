@@ -1,5 +1,5 @@
 ## Aman O. 👋
-I'm from in St. Petersburg.
+I'm from St. Petersburg.
 
 Full-time, part-time (remote, office).
 
