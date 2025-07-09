@@ -24,15 +24,33 @@ In data analysis - 1 year.
 - **Jupyter Notebook/Colab:** Исследовательский анализ данных.
 - **Statistics:** Описательная статистика, A/B тестирование.
 - **Data Viz:** Matplotlib, Seaborn.
-- **Git:** Основы контроля версий Git, умею инициализировать репозиторий, создавать коммиты, работать с ветками, выполнять слияния и решать конфликты.
+- **Git:** Основы контроля версий, умею инициализировать репозиторий, создавать коммиты, работать с ветками, выполнять слияния и решать конфликты.
 
 ## Projects 📂
 
-### 
+### Data Analysis Projects 📊
+> Всё, что связано с анализом данных: воронки, сегментации, ABC/XYZ, отчёты и т.д.
+https://github.com/aman-or/prolongations_2023
 
-### 
+### Docker & Deployment ⚙️
+> Проекты для демонстрации навыков развёртывания и работы с Docker.
+https://github.com/aman-or/table-of-student
 
-### 
+### Web Apps & Frameworks🌐
+🐍 Flask Projects
+https://github.com/aman-or/game_of_life
+
+🕸️ Django Projects
+https://github.com/aman-or/blog_django
+https://github.com/aman-or/blog_django_rest
+
+### Bots & API 🤖
+> Телеграм-боты и работа с внешними API.
+https://github.com/aman-or/simple_poject_telegram_bot
+
+
+### Diploma Project🎓
+https://github.com/aman-or/Chatbot-for-library
 
 ## Certificates 📜
 <p align="left">
