@@ -44,8 +44,8 @@ In data analysis - 1 year.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/50/000000/power-bi.png" alt="Power BI"/>/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://img.icons8.com/color/50/000000/power-bi.png" alt="Power BI"/>
   <img src="https://img.icons8.com/color/50/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
   <img src="https://img.icons8.com/color/50/000000/google-sheets.png" alt="Google Sheets"/>
   <img src="https://img.icons8.com/color/50/000000/google-colab.png" alt="Google Colab"/>
