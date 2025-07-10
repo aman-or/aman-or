@@ -32,6 +32,7 @@ In data analysis - 1 year.
 > Всё, что связано с анализом данных: воронки, сегментации, ABC/XYZ, отчёты и т.д.
 > #### https://github.com/aman-or/prolongations_2023
 > #### https://github.com/aman-or/sales-funnel/tree/main
+> #### https://github.com/aman-or/ABC-XYZ-analysis/tree/main
 
 ### Docker & Deployment ⚙️
 > Проекты для демонстрации навыков развёртывания и работы с Docker.
