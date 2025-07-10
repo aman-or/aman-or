@@ -50,9 +50,6 @@ In data analysis - 1 year.
 > #### https://github.com/aman-or/simple_poject_telegram_bot
 
 
-### Diploma Project🎓
-> #### https://github.com/aman-or/Chatbot-for-library
-
 ## Certificates 📜
 <p align="left">
    <a href="https://stepik.org/cert/2224980"><img src="https://img.shields.io/badge/Stepik.org-black?style=for-the-badge&logo=stepik"/></a>
