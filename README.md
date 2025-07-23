@@ -30,9 +30,16 @@ In data analysis - 1 year.
 
 ### Data Analysis Projects 📊
 > Всё, что связано с анализом данных: воронки, сегментации, ABC/XYZ, отчёты и т.д.
+
+### Excel & Google-Sheets
+> ### https://github.com/aman-or/Excel_Google-Sheets/blob/main/README.md
+
+### Python
 > #### https://github.com/aman-or/prolongations_2023
 > #### https://github.com/aman-or/sales-funnel/tree/main
 > #### https://github.com/aman-or/ABC-XYZ-analysis/tree/main
+
+### Power BI
 > #### https://github.com/aman-or/salesAnalyst-Bi/tree/main
 
 ### Docker & Deployment ⚙️
