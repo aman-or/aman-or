@@ -41,23 +41,23 @@ In data analysis - 1 year.
 
 ### Power BI
 > #### https://github.com/aman-or/salesAnalyst-Bi/tree/main
-
+-------------------------------------------------------------------------
 ### Docker & Deployment ⚙️
 > Проекты для демонстрации навыков развёртывания и работы с Docker.
 > #### https://github.com/aman-or/table-of-student
-
+-------------------------------------------------------------------------
 ### Web Apps & Frameworks🌐
 #### 🐍 Flask Projects
 > #### https://github.com/aman-or/game_of_life
-
+-------------------------------------------------------------------------
 #### 🕸️ Django Projects
 > #### https://github.com/aman-or/blog_django
 > #### https://github.com/aman-or/blog_django_rest
-
+-------------------------------------------------------------------------
 ### Bots & API 🤖
 > Телеграм-боты и работа с внешними API.
 > #### https://github.com/aman-or/simple_poject_telegram_bot
-
+-------------------------------------------------------------------------
 
 ## Certificates 📜
 <p align="left">
