@@ -40,7 +40,7 @@ In data analysis - 1 year.
 > #### https://github.com/aman-or/ABC-XYZ-analysis/tree/main
 -------------------------------------------------------------------------
 #### Power BI
-> #### https://github.com/aman-or/salesAnalyst-Bi/tree/main
+> #### https://github.com/aman-or/Power-BI/tree/main
 -------------------------------------------------------------------------
 ### Docker & Deployment ⚙️
 > Проекты для демонстрации навыков развёртывания и работы с Docker.
