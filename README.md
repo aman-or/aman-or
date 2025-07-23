@@ -32,7 +32,7 @@ In data analysis - 1 year.
 > Всё, что связано с анализом данных: воронки, сегментации, ABC/XYZ, отчёты и т.д.
 
 ### Excel & Google-Sheets
-> ### https://github.com/aman-or/Excel_Google-Sheets/blob/main/README.md
+> #### https://github.com/aman-or/Excel_Google-Sheets/blob/main/README.md
 -------------------------------------------------------------------------
 ### Python
 > #### https://github.com/aman-or/prolongations_2023
